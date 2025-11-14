@@ -14,4 +14,4 @@ pinecone
 protobuf
 typing_extensions
 scikit-learn
-
+torch
