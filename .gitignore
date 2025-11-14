@@ -1,0 +1,35 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# Logs & training outputs
+*.log
+trader_log.json
+trader_model.pth
+
+# Memory files
+*.db
+*.sqlite3
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables (VERY IMPORTANT)
+.env
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/

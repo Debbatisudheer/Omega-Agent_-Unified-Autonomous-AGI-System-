@@ -1,0 +1,16 @@
+streamlit
+matplotlib
+numpy
+requests
+python-dateutil
+httpx
+certifi
+
+# OpenAI + Pinecone
+openai
+pinecone
+
+# Your project code dependencies
+protobuf
+typing_extensions
+

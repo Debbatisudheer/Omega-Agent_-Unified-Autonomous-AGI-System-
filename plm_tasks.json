@@ -1,0 +1,35 @@
+[
+  {
+    "id": "p1",
+    "title": "Deep Work - Project",
+    "est_minutes": 90,
+    "priority": 8,
+    "deadline": null,
+    "tags": [
+      "work"
+    ],
+    "energy": "high"
+  },
+  {
+    "id": "p2",
+    "title": "Market review",
+    "est_minutes": 30,
+    "priority": 6,
+    "deadline": null,
+    "tags": [
+      "finance"
+    ],
+    "energy": "medium"
+  },
+  {
+    "id": "p3",
+    "title": "Read research paper",
+    "est_minutes": 45,
+    "priority": 5,
+    "deadline": null,
+    "tags": [
+      "learning"
+    ],
+    "energy": "low"
+  }
+]
