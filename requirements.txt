@@ -13,4 +13,5 @@ pinecone
 # Your project code dependencies
 protobuf
 typing_extensions
+scikit-learn
 
