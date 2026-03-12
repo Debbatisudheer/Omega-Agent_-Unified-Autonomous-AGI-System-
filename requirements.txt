@@ -15,3 +15,4 @@ protobuf
 typing_extensions
 scikit-learn
 torch
+python-dotenv
